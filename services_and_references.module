@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Services and References feature.
+ */
+
+include_once('services_and_references.features.inc');
