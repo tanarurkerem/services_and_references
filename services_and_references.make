@@ -9,6 +9,9 @@ projects[views][subdir] = contrib
 projects[ds][subdir] = contrib
 projects[field_slideshow][subdir] = contrib
 projects[references][subdir] = contrib
+projects[ctools][subdir] = contrib
+
+
 
 projects[services_and_references][subdir] = features
 projects[services_and_references][type] = module
