@@ -16,7 +16,7 @@ projects[ctools][subdir] = contrib
 projects[services_and_references][subdir] = features
 projects[services_and_references][type] = module
 projects[services_and_references][download][type] = git
-projects[services_and_references][download][url] = git://github.com/tanarurkerem/services_and_references.git
+projects[services_and_references][download][url] = git@github.com/tanarurkerem/services_and_references.git
 projects[services_and_references][download][branch] = master
 
 
